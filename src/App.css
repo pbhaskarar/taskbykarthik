@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiPopover-paper .css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper{ 
+  background-color: black;
+  }
